@@ -8,6 +8,8 @@ int main()
     std::cout << "Hello World!\n";
 
     std::cout << "Using vs2019\n";
+
+    std::cout << "Dlg box added";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
