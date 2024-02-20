@@ -10,6 +10,8 @@ int main()
     std::cout << "Using vs2019\n";
 
     std::cout << "Dlg box added";
+
+    std::cout << "Implemented file handling mechanism";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
